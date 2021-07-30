@@ -18,7 +18,7 @@ Below are few tips while you convert your existing .NET 4.7.2 projects into .NET
 There are tools available in case you don't want to convert your csproj manually into SDK type. But for small projects like this I would recommend to do it manually, you will learn more about csproj file.
 
 References: 
-https://stackoverflow.com/questions/58067997/how-to-migrate-net-framework-4-7-2-project-to-net-core-3-0-in-visual-studio-20
-https://docs.nunit.org/articles/nunit/getting-started/dotnet-core-and-dotnet-standard.html
-https://docs.microsoft.com/en-us/dotnet/core/testing/unit-testing-with-nunit
-https://medium.com/c-sharp-progarmming/migrate-net-framework-to-net-core-66746acb4092
+1. https://stackoverflow.com/questions/58067997/how-to-migrate-net-framework-4-7-2-project-to-net-core-3-0-in-visual-studio-20
+2. https://docs.nunit.org/articles/nunit/getting-started/dotnet-core-and-dotnet-standard.html
+3. https://docs.microsoft.com/en-us/dotnet/core/testing/unit-testing-with-nunit
+4. https://medium.com/c-sharp-progarmming/migrate-net-framework-to-net-core-66746acb4092
